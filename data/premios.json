@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nombre": "Guantes de boxeo Everlast",
+    "descripcion": "Par de guantes negros Everlast",
+    "estado": "Disponible",
+    "imagen": "assets/premios/guantes-boxeo.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Automóvil Chevrolet Corsa",
+    "descripcion": "Automóvil Chevrolet Corsa plateado",
+    "estado": "Disponible",
+    "imagen": "assets/premios/auto.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Bicicleta de montaña",
+    "descripcion": "Bicicleta azul con suspensión delantera",
+    "estado": "Disponible",
+    "imagen": "assets/premios/bicicleta.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "PlayStation 5",
+    "descripcion": "Consola PS5 con control y juegos",
+    "estado": "Disponible",
+    "imagen": "assets/premios/playstation-5.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "iPhone",
+    "descripcion": "Teléfono iPhone en color burdeos",
+    "estado": "Disponible",
+    "imagen": "assets/premios/iphone.jpg"
+  }
+]
